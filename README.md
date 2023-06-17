@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Competitive Coding and Projects.
 - 💬 Ask me about Tech-Related stuff or just ANIME :D
-- 📫 Reach out to me at : shashank.is17@sahyadri.edu.in
+- 📫 Reach out to me at : shashanks939@gmail.com
 - ⚡ Fun fact: I think more than I Sleep. :sweat_smile:
 
 </br>
