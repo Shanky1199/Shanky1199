@@ -15,6 +15,6 @@
 </br>
 </br>
 
-![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=Shanky1199&show_icons=true&count_private=true&theme=radical )
+
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanky1199&layout=compact)
 
